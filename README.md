@@ -5,13 +5,13 @@
 Either run
 
 ```
-$ php composer.phar require kucha/ueditor "*"
+$ php composer.phar require arimis/yii2-ueditor "*"
 ```
 
 or add
 
 ```
-"kucha/ueditor": "*"
+"arimis/yii2-ueditor": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
