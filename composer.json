@@ -1,11 +1,11 @@
 {
-    "name": "kucha/ueditor",
+    "name": "arimis/yii2-ueditor",
     "description": "desc",
     "license": "MIT",
     "authors": [
         {
-            "name": "BigKuCha",
-            "email": "nevermore1989@vip.qq.com"
+            "name": "Arimis",
+            "email": "arimis@163.com"
         }
     ],
     "minimum-stability": "stable",
